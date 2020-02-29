@@ -1,0 +1,16 @@
+rbc,wbc,platlets count
+errors-
+size iron deficiency rbc as platlets solution-manual counting in microscope
+flags higher count wbc 
+5 parameters differential 3 
+if wbc 100000 
+mechanism(rbc,wbc same),understand principle,errors,peripherals mirror
+
+bio-chemistry analyser 
+
+how to maintain
+capaxity,number of tests in an hour
+chemicals are different barcode,dylon lite
+minre vector,neoncoden,sysmex
+
+how to solve error? Ans-manually error
